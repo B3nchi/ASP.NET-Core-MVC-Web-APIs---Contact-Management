@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\logic\\contactlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\logic\\contactlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|c:\\users\\user\\desktop\\programming files\\asp\\contactmanage\\contactmanage.api\\contactmanage.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{22DC6AE7-7FE5-490D-B79F-DE8EA7E5685A}|ContactManage.API\\ContactManage.API.csproj|solutionrelative:contactmanage.api\\contactmanage.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManage.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ContactManage.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:37:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactLogic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Logic\\ContactLogic.cs",
+              "RelativeDocumentMoniker": "ContactManage.API\\Logic\\ContactLogic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Logic\\ContactLogic.cs*",
+              "RelativeToolTip": "ContactManage.API\\Logic\\ContactLogic.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:35:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactManage.API\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactManage.API\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:24:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManage.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Program.cs",
+              "RelativeToolTip": "ContactManage.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:27:57.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManage.API\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManage.API\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:12:14.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\DTOs\\ContactDto.cs",
+              "RelativeDocumentMoniker": "ContactManage.API\\DTOs\\ContactDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\DTOs\\ContactDto.cs",
+              "RelativeToolTip": "ContactManage.API\\DTOs\\ContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:49:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactManage.API",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\ContactManage.API.csproj",
+              "RelativeDocumentMoniker": "ContactManage.API\\ContactManage.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\ContactManage.API.csproj",
+              "RelativeToolTip": "ContactManage.API\\ContactManage.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T13:11:54.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManage.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Programming Files\\ASP\\ContactManage\\ContactManage.API\\appsettings.json",
+              "RelativeToolTip": "ContactManage.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T15:20:14.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
